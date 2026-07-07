@@ -71,9 +71,9 @@ This section provides an athlete-wise analysis of the Olympics.
 4. The web app will open in the browser
 
 # About me
-I am Mohd Mohitur Rahaman, and currently, I am pursuing MCA from KIIT University, Bhubaneswar. Talking about my previous educational background, I did my BSC in Mathematics at Malda College.
+I am Harshita, and currently, I am pursuing Btech CSE(DATA SCIENCE) from Chandigarh group mof colleges , Landran.
 
-- [Mohd Mohitur Rahaman](https://linktr.ee/mohitur)
+- [Harshita](https://www.linkedin.com/in/harshita-kheterpal-586b77304)
 
 # Feedback
-If you have any feedback, you can make the changes and create a pull request or, please reach out to me at [here](mailto:mohitur669@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mohitur02).
+If you have any feedback, you can make the changes and create a pull request or, please reach out to me at [here](mailto:harshitakheterpal272005@gmail.com) or [LinkedIn](https://www.linkedin.com/in/harshita-kheterpal-586b77304).
